@@ -1,0 +1,2 @@
+# R5T.Jutland.Standard
+The standard IJsonFileSerializationOperator implementation aggregation library for the Jutland project.
